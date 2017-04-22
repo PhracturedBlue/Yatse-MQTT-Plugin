@@ -1,0 +1,35 @@
+<!--
+  Copyright 2015 Tolriq / Genimee.
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Yatse MQTT plugin</string>
+    <string name="mqtt_plugin_name">MQTT plugin</string>
+    <string name="mqtt_plugin_description">MQTT plugin</string>
+
+    <!-- The plugin_unique_id value must be changed for any production plugin !!! -->
+    <string name="plugin_unique_id" translatable="false" tools:ignore="TypographyDashes">3ef24b58-c478-4424-965f-0c608cff6b1d</string>
+
+    <string name="mqtt_plugin_custom_command">Custom Command :</string>
+    <string name="mqtt_plugin_custom_command_description">MQTT Custom Command</string>
+    <string name="mqtt_plugin_custom_command_name">Name</string>
+    <string name="mqtt_plugin_custom_command_serverport">Server[:Port]</string>
+    <string name="mqtt_plugin_custom_command_username">Username</string>
+    <string name="mqtt_plugin_custom_command_password">Password</string>
+    <string name="mqtt_plugin_custom_command_topic">Topic</string>
+    <string name="mqtt_plugin_custom_command_message">Message</string>
+
+    <string name="save">Save</string>
+</resources>
